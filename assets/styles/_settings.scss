@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Poppins;
+  src: url(../fonts/Poppins/Poppins-SemiBold.ttf);
+}
+@font-face {
+  font-family: OpenSansRegular;
+  src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
+}
+@font-face {
+  font-family: OpenSansBold;
+  src: url(../fonts/Open_Sans/OpenSans-Bold.ttf);
+}
+
+$fontTitles: Poppins;
+$fontTexts: OpenSansRegular;
+$fontTextsBold: OpenSansBold;
+
+$white: white;
+$pink: rgb(255, 82, 191);
+$veryPaleCyan: rgb(235, 251, 255);
+$veryDarkCyan: rgb(0, 37, 46);
+$grayishBlue: rgb(128, 141, 153);
